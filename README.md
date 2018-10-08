@@ -2,7 +2,7 @@
 ## Deployment Instructions
 
 ### Prerequisites
-    Run the project available at https://github.com/Nanda021294/Hotel-Service.gitin the same machine where this project to be deployed or deploy it anywhere and configure the url host in appliction.proprties
+    Run the project available at https://github.com/Nanda021294/Hotel-Service.git in the same machine where this project to be deployed or deploy it anywhere and configure the url host in appliction.proprties
 
 1) Replace the credentials of mongoDB in the application.properties file
 2) From command prompt navigate to the folder where the pom.xml file located
